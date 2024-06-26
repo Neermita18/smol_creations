@@ -1,2 +1,3 @@
 # smol_creations
-## Codedex projects
+- [ ] Codedex projects
+- [ ] Data Science projects
